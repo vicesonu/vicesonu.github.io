@@ -1,0 +1,11 @@
+p {
+  color: brown;
+}
+
+.random-paragraph {
+  color: teal;
+}
+
+#outter {
+  border: 10px solid gray;
+}
